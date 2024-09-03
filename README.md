@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matteoSaputo
 - 👀 I’m interested in connecting with others 
-- 🌱 I’m currently learning Computer Science and Math
+- 🌱 I’m a lifelong learner of Computer Science and Math
 - 💞️ I’m looking to collaborate on anything within my expertise 
 - 📫 How to reach me ... Email: matteosaputo1201@gmail.com
 
